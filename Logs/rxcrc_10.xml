@@ -1,0 +1,605 @@
+<BIGLOGFILE>
+<XMLLOG expname="rxcrc10a"> 
+<RXPACKET> <my_longitude> -844026000 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757761 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170239 </seconds><microseconds> 514764 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015798 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782702 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026000 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757761 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170239 </seconds><microseconds> 525871 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015797 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782700 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026000 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757761 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170239 </seconds><microseconds> 614668 </microseconds></logtime> 
+<rssi> 3 </rssi> 
+<tx_longitude> -844015795 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782700 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025938 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757822 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170269 </seconds><microseconds> 120661 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015744 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782670 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025940 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757823 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170269 </seconds><microseconds> 320659 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015747 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782667 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025940 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757823 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170269 </seconds><microseconds> 331604 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015748 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782667 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025939 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757821 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170269 </seconds><microseconds> 420661 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015749 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782667 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025939 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757821 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170269 </seconds><microseconds> 431598 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015749 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782668 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025942 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757821 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170269 </seconds><microseconds> 720660 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015754 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782665 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025942 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757821 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170269 </seconds><microseconds> 820668 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015756 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782666 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025943 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757820 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170270 </seconds><microseconds> 420658 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015767 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782666 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025943 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757820 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170270 </seconds><microseconds> 520661 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015771 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782666 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025943 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757820 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170270 </seconds><microseconds> 620659 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015773 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782666 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025943 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757820 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170270 </seconds><microseconds> 720659 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015774 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782666 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025943 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757820 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170270 </seconds><microseconds> 731612 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015774 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782666 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025943 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757818 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170270 </seconds><microseconds> 820680 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015775 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782666 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025943 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757817 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170270 </seconds><microseconds> 920660 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015778 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782666 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025945 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757818 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170271 </seconds><microseconds> 20659 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015779 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782666 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025952 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757810 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170274 </seconds><microseconds> 120661 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015823 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782653 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025951 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757808 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170274 </seconds><microseconds> 820665 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015830 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782650 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025951 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757808 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170274 </seconds><microseconds> 920659 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015830 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782649 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025953 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757801 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170277 </seconds><microseconds> 820666 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015864 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782626 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025953 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757801 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170278 </seconds><microseconds> 20664 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015866 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782625 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025953 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757801 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170278 </seconds><microseconds> 31882 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015864 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782624 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025953 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757801 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170278 </seconds><microseconds> 120662 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015864 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782624 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025953 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757801 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170278 </seconds><microseconds> 131658 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015864 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782624 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025951 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757801 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170279 </seconds><microseconds> 620894 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015866 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782618 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025951 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757801 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170279 </seconds><microseconds> 720659 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015866 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782617 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025951 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757800 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170280 </seconds><microseconds> 720659 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015864 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782615 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025951 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757800 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170282 </seconds><microseconds> 620665 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015855 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782610 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025950 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757798 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170285 </seconds><microseconds> 20661 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015846 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782608 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025950 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757798 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170285 </seconds><microseconds> 31657 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015848 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782608 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> 
+ </XMLLOG> 
+<XMLLOG expname="rxcrc10b"> 
+<RXPACKET> <my_longitude> -844025911 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757783 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170310 </seconds><microseconds> 220777 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015761 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025911 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757785 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170311 </seconds><microseconds> 320654 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015774 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025911 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757786 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170311 </seconds><microseconds> 420659 </microseconds></logtime> 
+<rssi> 7 </rssi> 
+<tx_longitude> -844015775 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025911 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757786 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170311 </seconds><microseconds> 720661 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015777 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025911 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757788 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170312 </seconds><microseconds> 820666 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015790 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782746 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757790 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170312 </seconds><microseconds> 831657 </microseconds></logtime> 
+<rssi> 3 </rssi> 
+<tx_longitude> -844015790 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025909 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757790 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170312 </seconds><microseconds> 920658 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015790 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757790 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170313 </seconds><microseconds> 20658 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015791 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757790 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170313 </seconds><microseconds> 31597 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015793 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757790 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170313 </seconds><microseconds> 120933 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015794 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757791 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170313 </seconds><microseconds> 220658 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015795 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757791 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170313 </seconds><microseconds> 231599 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015795 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757791 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170313 </seconds><microseconds> 420659 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015798 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757791 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170313 </seconds><microseconds> 520661 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015799 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757791 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170313 </seconds><microseconds> 620678 </microseconds></logtime> 
+<rssi> 3 </rssi> 
+<tx_longitude> -844015800 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025910 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757791 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170313 </seconds><microseconds> 720659 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015800 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782745 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025922 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757795 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170316 </seconds><microseconds> 320661 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015796 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782728 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025922 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757795 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170316 </seconds><microseconds> 331604 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015795 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782728 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026008 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757803 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170345 </seconds><microseconds> 420660 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015945 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782565 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026008 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757803 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170345 </seconds><microseconds> 520660 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015947 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782564 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026010 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757803 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170345 </seconds><microseconds> 620659 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015951 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782563 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026017 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757805 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170347 </seconds><microseconds> 320661 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015999 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782544 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026017 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757805 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170347 </seconds><microseconds> 331597 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844016000 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782543 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026016 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757805 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170347 </seconds><microseconds> 420659 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844016002 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782542 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026016 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757805 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170347 </seconds><microseconds> 431599 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844016001 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782543 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026020 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757806 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170348 </seconds><microseconds> 20660 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844016005 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782536 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026026 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757810 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170351 </seconds><microseconds> 20661 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015977 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782515 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026026 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757810 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170351 </seconds><microseconds> 31596 </microseconds></logtime> 
+<rssi> 7 </rssi> 
+<tx_longitude> -844015976 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782511 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026026 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757810 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170351 </seconds><microseconds> 120677 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015975 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782510 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026026 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757810 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170351 </seconds><microseconds> 131885 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015975 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782510 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026045 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757796 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170356 </seconds><microseconds> 420661 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015872 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782480 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026045 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757795 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170356 </seconds><microseconds> 520661 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015871 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782481 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026045 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757795 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170356 </seconds><microseconds> 531597 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015870 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782481 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026045 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757796 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170356 </seconds><microseconds> 620660 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015870 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782481 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026045 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757796 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170356 </seconds><microseconds> 719660 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015871 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782481 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026045 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757796 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170356 </seconds><microseconds> 820657 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015870 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782480 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026043 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757796 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170357 </seconds><microseconds> 520663 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015856 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782482 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026041 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757794 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170357 </seconds><microseconds> 920659 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015849 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782481 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026036 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757793 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170358 </seconds><microseconds> 620892 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015840 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782483 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026029 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757788 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170360 </seconds><microseconds> 120891 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015819 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782490 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> 
+ </XMLLOG> 
+<XMLLOG expname="rxcrc10c"> 
+<RXPACKET> <my_longitude> -844025946 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757795 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170379 </seconds><microseconds> 220766 </microseconds></logtime> 
+<rssi> 3 </rssi> 
+<tx_longitude> -844015967 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782756 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025946 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757796 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170379 </seconds><microseconds> 819657 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015968 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782762 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025946 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757800 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170382 </seconds><microseconds> 220658 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015989 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782787 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025945 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757803 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170384 </seconds><microseconds> 220657 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844016006 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782797 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025945 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757803 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170384 </seconds><microseconds> 231596 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844016008 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782796 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025944 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757803 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170384 </seconds><microseconds> 320660 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844016009 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782796 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025945 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757805 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170384 </seconds><microseconds> 420657 </microseconds></logtime> 
+<rssi> 7 </rssi> 
+<tx_longitude> -844016008 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782796 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025961 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757810 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170393 </seconds><microseconds> 210369 </microseconds></logtime> 
+<rssi> 3 </rssi> 
+<tx_longitude> -844015940 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782785 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025961 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757808 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170393 </seconds><microseconds> 221658 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015940 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782786 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025958 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757805 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170394 </seconds><microseconds> 620660 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015920 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782780 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025962 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757792 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170397 </seconds><microseconds> 220666 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015873 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782773 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025989 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757776 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170399 </seconds><microseconds> 954993 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015835 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782777 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026021 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757748 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170404 </seconds><microseconds> 813661 </microseconds></logtime> 
+<rssi> 6 </rssi> 
+<tx_longitude> -844015823 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782778 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026030 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757736 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170407 </seconds><microseconds> 13662 </microseconds></logtime> 
+<rssi> 3 </rssi> 
+<tx_longitude> -844015801 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782771 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026030 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757736 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170407 </seconds><microseconds> 24596 </microseconds></logtime> 
+<rssi> 7 </rssi> 
+<tx_longitude> -844015800 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782770 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026066 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757712 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170412 </seconds><microseconds> 313654 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015719 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782746 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026066 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757712 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170412 </seconds><microseconds> 324596 </microseconds></logtime> 
+<rssi> 7 </rssi> 
+<tx_longitude> -844015718 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782746 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026040 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757695 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170421 </seconds><microseconds> 913658 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015444 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782730 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026022 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757691 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170424 </seconds><microseconds> 313661 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015399 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782731 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026021 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757691 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170424 </seconds><microseconds> 413888 </microseconds></logtime> 
+<rssi> 7 </rssi> 
+<tx_longitude> -844015398 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782731 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026021 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757691 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170424 </seconds><microseconds> 424602 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015396 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782731 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026015 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757691 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170425 </seconds><microseconds> 113657 </microseconds></logtime> 
+<rssi> 3 </rssi> 
+<tx_longitude> -844015389 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782733 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026001 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757695 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170426 </seconds><microseconds> 413887 </microseconds></logtime> 
+<rssi> 4 </rssi> 
+<tx_longitude> -844015363 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782737 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026001 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757695 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170426 </seconds><microseconds> 424601 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015365 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782736 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844026000 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757695 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170426 </seconds><microseconds> 513660 </microseconds></logtime> 
+<rssi> 3 </rssi> 
+<tx_longitude> -844015362 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782736 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025988 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757696 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170427 </seconds><microseconds> 613659 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015357 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782741 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET> <RXPACKET> <my_longitude> -844025983 </my_longitude> <my_londir> W </my_londir> 
+<my_latitude> 337757698 </my_latitude> <my_latdir> N </my_latdir> 
+<logtime><seconds> 1425170428 </seconds><microseconds> 213662 </microseconds></logtime> 
+<rssi> 5 </rssi> 
+<tx_longitude> -844015355 </tx_longitude> <tx_londir> E </tx_londir> 
+<tx_latitude> 337782741 </tx_latitude> <tx_latdir> N </tx_latdir> 
+</RXPACKET>
+</XMLLOG>
+</BIGLOGFILE>
